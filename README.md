@@ -11,10 +11,6 @@ A satirical WinForms app that perfectly emulates the Windows troubleshooting exp
 
 That is the entire user experience. Nothing is diagnosed. Nothing is fixed.
 
-## Why it exists
-
-Because in a lifetime of using Windows, the built-in troubleshooting tools have never - not once - actually helped me.
-
 ## Tech
 
 - C# / .NET Framework 4.8
@@ -28,3 +24,8 @@ Build and run. The app doesn't do actually anything. Just like the real thing.
 ## Disclaimer
 
 This project is an independent parody and is not affiliated with, endorsed by, or sponsored by Microsoft Corporation. "Windows" and "Windows Network Diagnostics" are trademarks of Microsoft Corporation.
+
+<br>
+
+<img width="843" height="715" alt="gui" src="https://github.com/user-attachments/assets/4dea8a9d-bf55-46eb-8c8a-5dbd6c5c61a3" />
+
