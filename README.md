@@ -19,7 +19,7 @@ That is the entire user experience. Nothing is diagnosed. Nothing is fixed.
 
 ## Usage
 
-Build and run. The app doesn't do actually anything. Just like the real thing.
+Build and run. The app doesn't actually do anything. Just like the real thing.
 
 ## Disclaimer
 
