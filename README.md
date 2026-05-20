@@ -1,6 +1,6 @@
 # Windows Troubleshooter
 
-A satirical WinForms app that perfectly emulates the Windows troubleshooting experience.
+A satirical WinForms app that emulates the Windows troubleshooting experience.
 
 ## What it does
 
